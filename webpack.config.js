@@ -10,7 +10,7 @@ module.exports = {
   // 指定打包后的输出位置和文件名
   output: {
     path: path.resolve(__dirname, 'dist'),
-    filename: 'bundle.js'
+    filename: 'index.js'
   },
   // 设置模式：开发模式
   mode: 'development',
